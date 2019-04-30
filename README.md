@@ -1,22 +1,19 @@
 # Opera Music
 
 <p align="center">
-    
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RegNex/OperaMusicUi/graphs/commit-activity)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/RegNex/)
-[![ForTheBadge made-with-flutter](https://img.shields.io/badge/flutter-made%20with%20flutter-blue.svg)](https://flutter.dev)
-[![ForTheBadge ios-supported](https://img.shields.io/badge/IOS-IOS%20Supported-lightgrey.svg)](https://flutter.dev)
-[![ForTheBadge ios-android](https://img.shields.io/badge/android-android%20supported-green.svg)](https://flutter.dev)
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 <img src="https://img.shields.io/badge/flutter-made%20with%20flutter-blue.svg"/>
-
+<img src="https://img.shields.io/badge/IOS-IOS%20Supported-lightgrey.svg"/>
+<img src="https://img.shields.io/badge/android-android%20supported-green.svg"/>
 </p>
 
 This project is an implementation of a iOS MIX Design on [Uplabs.com](https://www.uplabs.com/posts/opera-music) by [Pathum Tzoo](https://www.uplabs.com/pathumtzoo)
 
 ## Art
 
-<img align="left" src="https://github.com/RegNex/WalletUiApp/blob/master/screenshot/art_1.png" width="200" height="400"/>
-<img src="https://github.com/RegNex/WalletUiApp/blob/master/screenshot/art_2.png" width="200" height="400"/>
+<img align="left" src="https://github.com/RegNex/OperaMusicUi/blob/master/screenshot/art_1.png" width="200" height="400"/>
+<img src="https://github.com/RegNex/OperaMusicUi/blob/master/screenshot/art_2.png" width="200" height="400"/>
 
 ## Getting Started
 
