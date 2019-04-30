@@ -86,8 +86,6 @@ What things you need to run the app
 
 ## Inspiration
 
-**Pathum Tzoo**
-
 - [**Pathum Tzoo**](https://www.uplabs.com/pathumtzoo)
 
 ## License
