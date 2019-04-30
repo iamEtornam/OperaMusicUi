@@ -147,7 +147,7 @@ class _PlayerPageState extends State<PlayerPage>
         ),
         Text(
           'Charlir Puth - Nine Track Mind',
-          style: TextStyle(fontSize: 16.0, color: Colors.black26),
+          style: TextStyle(fontSize: 16.0, color: Colors.black38),
         )
       ],
     );
