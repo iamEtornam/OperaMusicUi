@@ -12,8 +12,8 @@ This project is an implementation of a iOS MIX Design on [Uplabs.com](https://ww
 
 ## Art
 
-<img align="left" src="https://github.com/RegNex/OperaMusicUi/blob/master/screenshot/art_1.png" width="200" height="400"/>
-<img src="https://github.com/RegNex/OperaMusicUi/blob/master/screenshot/art_2.png" width="200" height="400"/>
+<img align="left" src="https://raw.githubusercontent.com/RegNex/OperaMusicUi/master/screenshot/art_1.png" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/RegNex/OperaMusicUi/master/screenshot/art_2.png" width="200" height="400"/>
 
 ## Getting Started
 
