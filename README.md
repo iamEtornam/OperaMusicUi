@@ -40,9 +40,6 @@ C:\path\to\project> flutter run
 
 ```
 
-## Switch Theme
-
-**Long press to switch Theme**
 
 A few resources to get you started if this is your first Flutter project:
 
